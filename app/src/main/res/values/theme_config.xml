@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
 
     <string name="theme_feature">ic_launcher</string>
-    <string name="theme_title">Polar Dashboard Pack</string>
+    <string name="theme_title">8 Bit Plus</string>
     <string name="authorName">Not filled in</string>
     <string name="developerName">Not filled in</string>
     <string name="developer_name">Not filled in</string>

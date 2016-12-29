@@ -34,11 +34,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.afollestad.polar"
+        applicationId "com.eightbitplus"
         minSdkVersion 19
         targetSdkVersion TARGET_SDK
         versionCode 30
-        versionName "1.8.0"
+        versionName "1.0"
 
         vectorDrawables.useSupportLibrary = true
     }

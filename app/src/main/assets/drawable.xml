@@ -1,43 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
-
-    <category title="New Icons" />
-    <item drawable="polar" />
-    <item drawable="full_pink" />
-    <item drawable="full_orange" />
-    <item drawable="half_indigo" />
-
-
-    <category title="Google Icons" />
-    <item drawable="full_pink" />
-    <item drawable="full_orange" />
-    <item drawable="full_yellow" />
-    <item drawable="full_green" />
-    <item drawable="full_blue" />
-    <item drawable="full_indigo" />
-    <item drawable="half_pink" />
-    <item drawable="half_orange" />
-    <item drawable="half_yellow" />
-    <item drawable="half_green" />
-    <item drawable="half_blue" />
-    <item drawable="half_indigo" />
-
-
     <category title="All Icons" />
-    <item drawable="full_pink" />
-    <item drawable="full_orange" />
-    <item drawable="full_yellow" />
-    <item drawable="full_green" />
-    <item drawable="full_blue" />
-    <item drawable="full_indigo" />
-    <item drawable="half_pink" />
-    <item drawable="half_orange" />
-    <item drawable="half_yellow" />
-    <item drawable="half_green" />
-    <item drawable="half_blue" />
-    <item drawable="half_indigo" />
+    <item drawable="a_system_l_multitask" />
+    <item drawable="bible" />
+    <item drawable="c_sns_1km" />
+    <item drawable="c_talk_nateon_3" />
+    <item drawable="d_document_monospace" />
+    <item drawable="dailer" />
+    <item drawable="e_web_xda" />
+    <item drawable="f_money_coin10" />
+    <item drawable="f_money_piggybank" />
+    <item drawable="f_shopping_kt" />
+    <item drawable="g_rpg_widgetrpg" />
+    <item drawable="h_food_fast_baedal" />
+    <item drawable="h_health_runkeeper_2" />
+    <item drawable="i_camera_a_j" />
+    <item drawable="i_editor_scanbot" />
+    <item drawable="i_gallery_ios1" />
+    <item drawable="i_gallery_naver" />
+    <item drawable="i_gallery_photos" />
+    <item drawable="ia" />
+    <item drawable="ic_web" />
+    <item drawable="instapaper" />
+    <item drawable="m_music_sony" />
+    <item drawable="m_tv_control_1_record" />
+    <item drawable="m_voice_easy" />
+    <item drawable="n_book_audible" />
+    <item drawable="n_book_bible" />
+    <item drawable="n_book_open" />
+    <item drawable="n_reader_instapaper" />
+    <item drawable="o_package" />
+    <item drawable="p_explorer_s_3" />
+    <item drawable="p_note_lg_k" />
+    <item drawable="p_plan_clock_l" />
+    <item drawable="polar_wallpaper" />
     <item drawable="polar" />
-
-
+    <item drawable="qidian" />
+    <item drawable="r_calculator_ios7" />
+    <item drawable="r_dictionary_google" />
+    <item drawable="stand" />
+    <item drawable="t_computer_3_printer" />
+    <item drawable="weather" />
 </resources>

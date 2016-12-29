@@ -10,5 +10,160 @@
         component="ComponentInfo{com.afollestad.polar/com.afollestad.polar.ui.MainActivity}"
         drawable="polar" />
 
+    <item
+        component="ComponentInfo{net.ia.iawriter/net.ia.iawriter.utilities.SplashActivity}"
+        drawable="ia" />
+    <item
+        component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
+        drawable="weather" />
+    <item
+        component="ComponentInfo{com.qidian.QDReader.g/com.qidian.QDReader.SplashActivity}"
+        drawable="qidian" />
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="dailer" />
+    <item
+        component="ComponentInfo{com.merriamwebster.premium/com.merriamwebster.dictionary.activity.dictionary.DictionaryActivity}"
+        drawable="r_dictionary_google" />
+    <item
+        component="ComponentInfo{de.orrs.deliveries/de.orrs.deliveries.LaunchActivity}"
+        drawable="o_package" />
+    <item
+        component="ComponentInfo{com.underwood.monospace/com.underwood.monospace.library.LibraryActivity}"
+        drawable="d_document_monospace" />
+    <item
+        component="ComponentInfo{com.instapaper.android/com.instapaper.android.MainActivity}"
+        drawable="n_reader_instapaper" />
+    <item
+        component="ComponentInfo{ak.alizandro.smartaudiobookplayer/ak.alizandro.smartaudiobookplayer.PlayerActivity}"
+        drawable="n_book_audible" />
+    <item
+        component="ComponentInfo{biblereader.olivetree/biblereader.olivetree.activities.BibleReaderActivity}"
+        drawable="n_book_open" />
+    <item
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="p_plan_clock_l" />
+    <item
+        component="ComponentInfo{com.freeletics.lite/com.freeletics.activities.StartActivity}"
+        drawable="h_health_runkeeper_2" />
+    <item
+        component="ComponentInfo{net.doo.snap/net.doo.snap.ui.main.SplashActivity}"
+        drawable="i_editor_scanbot" />
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="r_calculator_ios7" />
+    <item
+        component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}"
+        drawable="p_explorer_s_3" />
+    <item
+        component="ComponentInfo{mohammad.adib.roundr/mohammad.adib.roundr.MainActivity}"
+        drawable="a_system_l_multitask" />
+    <item
+        component="ComponentInfo{com.digipom.easyvoicerecorder.pro/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity}"
+        drawable="m_voice_easy" />
+    <item
+        component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}"
+        drawable="c_sns_1km" />
+    <item
+        component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}"
+        drawable="e_web_xda" />
+
+    <item
+        component="ComponentInfo{com.taobao.htao.android/com.taobao.htao.android.common.activity.MainDockerActivity}"
+        drawable="f_shopping_kt" />
+
+    <item
+        component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}"
+        drawable="m_tv_control_1_record" />
+
+    <item
+        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        drawable="i_gallery_ios1" />
+
+    <item
+        component="ComponentInfo{com.liveyap.timehut/com.liveyap.timehut.views.LoadingActivity}"
+        drawable="i_gallery_naver" />
+
+    <item
+        component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}"
+        drawable="m_music_sony" />
+
+    <item
+        component="ComponentInfo{com.brother.mfc.brprint/com.brother.mfc.brprint.v2.ui.top.SplashActivity}"
+        drawable="t_computer_3_printer" />
+
+    <item
+        component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}"
+        drawable="i_gallery_photos" />
+
+    <item
+        component="ComponentInfo{com.journey.app/com.journey.app.SplashActivity}"
+        drawable="p_note_lg_k" />
+
+    <item
+        component="ComponentInfo{com.sirma.mobile.bible.android/com.youversion.ui.MainActivity}"
+        drawable="n_book_bible" />
+
+    <item
+        component="ComponentInfo{com.aquila.bible/com.wdbible.app.wedevotebible.base.LoadingActivity}"
+        drawable="bible" />
+
+    <item
+        component="ComponentInfo{com.esunbank/com.esunbank.home.HomeStartActivity}"
+        drawable="f_money_piggybank" />
+
+    <item
+        component="ComponentInfo{com.inkstories.blackfriday/com.unity3d.player.UnityPlayerActivity}"
+        drawable="i_camera_a_j" />
+
+    <item
+        component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}"
+        drawable="f_money_coin10" />
+
+    <item
+        component="ComponentInfo{com.rockstargames.gtavc/com.rockstargames.gtavc.GTAVC}"
+        drawable="g_rpg_widgetrpg" />
+
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="c_talk_nateon_3" />
+
+    <item
+        component="ComponentInfo{com.thestandnews.standnews/com.thestandnews.standnews.ui.MainActivity}"
+        drawable="stand" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+    <item
+        component="ComponentInfo{xx/xx}"
+        drawable="xx" />
+
+
 
 </resources>
